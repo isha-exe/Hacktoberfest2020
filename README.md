@@ -8,6 +8,12 @@
   <img src="https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg" alt="hacktoberfest">
 </p> --> 
 
+# What is Hacktoberfest 2020?
+**Hacktoberfest 2020 is a month long virtual festival event to celebrate open source contributions presented by Digital Ocean, Intel and DEV. It is the easiest way to get into open source!**
+
+
+
+
 # Hacktoberfest2020
 This repo contains different types of algorithms in different languages.
 This repository is made for the first time contributors. Contribute to this repository and earn a free t-shirt from Digital Ocean and be a part of Hacktoberfest.
